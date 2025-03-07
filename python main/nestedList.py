@@ -1,0 +1,5 @@
+list1=('hellow',2.0,5,[10,20])
+print(list[3])
+list2=(list1[3])
+print(list2[0])
+#print(list[3],[1]) 
