@@ -4,7 +4,7 @@ Python is a programming language known for its simplicity and readability. Pytho
 ## Python-Programs :-
 I have learned many concepts in Python, including data types, strings, booleans, loops, and statements. I now understand how to use different data types such as integers and strings etc.
 
-### Key Features of Python :-
+## Key Features of Python :-
 ✔ Easy to Learn – Python has a simple and readable syntax, making it beginner-friendly.
 ✔ Interpreted Language – Code is executed line by line, making debugging easier.
 
